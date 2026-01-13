@@ -25,6 +25,9 @@ This Escrow contract:
 
 * **Buyer** – Deposits ETH and confirms delivery
 * **Seller** – Receives ETH after confirmation
+
+
+added testing in foundry
 * **Escrow Contract** – Holds ETH and enforces rules
 
 Actors are **fixed at deployment** and cannot be changed.
